@@ -8,10 +8,10 @@ I'm a Software Engineer and Web Developer
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: He/him
-- 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
-- 🌱 I’m currently building JavaScript and NodeJS projects.
-- 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: Software Engineer and Web developer (Intern or Junior level).
+- 💡 Fun fact: I earned my first Software Engineering diploma at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
+- 🌱 I’m currently working with a SaaS company as a frontend developer, building modern web apps with JavaScript, Typescript, React, Tailwind amongst other popular technologies.
+- 😊 I’m currently open to open source projects, hackathons, internships, and entry/mid-level opportunities.
+- 💼 Job interests: Frontend developer, React Developer, Node Developer, Software Developer and Web developer (Junior or Mid level).
 - 📫 You can contact me by emailing aramramadan7@gmail.com.
 
 ---
